@@ -1,71 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:35152B,100:E879A8&height=210&section=header&text=SAYANTI%20KUNDU&fontSize=52&fontColor=FFD6E7&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20STUDENT%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR&descSize=14&descAlignY=60&descColor=F8BBD0"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=F48FB1&center=true&vCenter=true&width=720&lines=building+%E2%80%A2+learning+%E2%80%A2+growing+%E2%9C%A8;turning+ideas+into+working+products+%F0%9F%92%BB;full+stack+developer+%F0%9F%8C%B8;open+source+contributor+%F0%9F%8C%8D" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kundusayanti16&label=PROFILE%20VIEWS&color=E879A8&style=flat-square"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-dark.svg">
+  <img
+    src="assets/banner-dark.svg"
+    width="100%"
+    alt="Sayanti Kundu - Full Stack Developer"
+  />
+</picture>
 
 </div>
 
----
+<br>
 
-<table>
-<tr>
+## 👩‍💻 &nbsp;A little about me
 
-<td width="42%" align="center" valign="middle">
+> **Hey, I'm Sayanti — a Computer Science student who loves turning ideas into things that actually work.**
 
-<img src="./me.jpeg" width="280" alt="Sayanti Kundu">
+<div align="center">
 
-<br><br>
+💻 **Full-Stack Development** &nbsp; • &nbsp;
+🧩 **Problem Solving** &nbsp; • &nbsp;
+🤖 **AI/ML Exploration** &nbsp; • &nbsp;
+🌐 **Open Source**
 
-### 🌷 Sayanti Kundu
-
-`Full Stack Developer`
-
-`CSE Student`
-
-`Open Source Contributor`
+</div>
 
 <br>
 
-<a href="https://github.com/kundusayanti16">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+I enjoy going from **“what if we built this?”** to a working product —
+designing the interface, building the APIs, connecting the database,
+and figuring out why something broke at 2 AM.
 
-<a href="https://www.linkedin.com/in/sayanti-kundu-670520329/">
-<img src="https://img.shields.io/badge/LinkedIn-E879A8?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+I'm currently exploring the world of **React, Node.js, Express.js,
+MongoDB, PostgreSQL and JavaScript**, while sharpening my foundations
+in **DSA, DBMS, Operating Systems and Computer Networks**.
+
+<br>
+
+<div align="center">
+
+**`build → break → debug → learn → repeat`**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>🛠️ &nbsp;my stack</h2>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="52">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript" height="52">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" height="52">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" height="52">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="52">
+
+<br><br>
+
+</div>
+<h2 align="center">📊 &nbsp;Activity</h2>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundusayanti16&layout=normal&langs_count=6&card_width=420&theme=radical&hide_border=true&title_color=ff4fd8"
+  width="100%"
+/>
 
 </td>
 
-<td width="58%" valign="top">
+<td width="50%" align="center">
 
-## `profile.exe`
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=kundusayanti16&theme=radical&hide_border=true"
+  width="100%"
+/>
 
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│  NAME       → Sayanti Kundu               │
-│  ROLE       → Full Stack Developer        │
-│  EDUCATION  → B.Tech CSE                  │
-│  COLLEGE    → Lovely Professional Univ.   │
-│  LOCATION   → Punjab, India               │
-│                                            │
-│  STATUS     → Building + Learning         │
-│  FOCUS      → Web Development + AI/ML     │
-│                                            │
-│  LANGUAGES  → JavaScript • TypeScript     │
-│               Python • Java • C++ • C     │
-│                                            │
-│  FRONTEND   → React • Next.js             │
-│               HTML • CSS • Tailwind       │
-│                                            │
-│  BACKEND    → Node.js • Express           │
-│  DATABASE   → MongoDB • PostgreSQL        │
-│                                            │
-│  OPEN SOURCE → GSSoC Contributor          │
-│                                            │
-╰────────────────────────────────────────────╯
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kundusayanti16&theme=github_dark&name=Contributions"
+  width="95%"
+/>
+
+</div>
+
+<br>
+
+<h2 align="center">🌐 &nbsp;Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sayanti-kundu-670520329">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:kundusayanti16@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kundusayanti16">
+  <img src="https://skillicons.dev/icons?i=github" height="45">
+</a>
+
+</div>
+
+<br>
+<br>
+
+---
+
+<div align="center">
+
+**`build → break → debug → learn → repeat`**
+
+</div>
