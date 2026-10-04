@@ -1,1 +1,290 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#07070A"/>
+      <stop offset="55%" stop-color="#120A18"/>
+      <stop offset="100%" stop-color="#08070C"/>
+    </linearGradient>
+
+    <!-- Pink / Purple glow -->
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(950 100) rotate(130) scale(360 400)">
+      <stop offset="0%" stop-color="#D946EF" stop-opacity="0.22"/>
+      <stop offset="45%" stop-color="#A855F7" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path
+        d="M 40 0 L 0 0 0 40"
+        stroke="#C084FC"
+        stroke-opacity="0.08"
+        stroke-width="1"
+      />
+    </pattern>
+
+    <!-- Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- MAIN BACKGROUND -->
+  <rect
+    x="0"
+    y="0"
+    width="1200"
+    height="360"
+    rx="24"
+    fill="url(#background)"
+  />
+
+  <!-- CODER GRID -->
+  <rect
+    x="0"
+    y="0"
+    width="1200"
+    height="360"
+    rx="24"
+    fill="url(#grid)"
+  />
+
+  <!-- PURPLE GLOW -->
+  <rect
+    x="0"
+    y="0"
+    width="1200"
+    height="360"
+    rx="24"
+    fill="url(#purpleGlow)"
+  />
+
+
+  <!-- TOP LEFT CODE -->
+  <text
+    x="55"
+    y="70"
+    font-family="monospace"
+    font-size="22"
+    fill="#D946EF"
+    opacity="0.65"
+  >
+    &lt;/&gt;
+  </text>
+
+  <text
+    x="82"
+    y="100"
+    font-family="monospace"
+    font-size="13"
+    fill="#71717A"
+    opacity="0.55"
+  >
+    const developer = true;
+  </text>
+
+
+  <!-- TOP RIGHT CODE -->
+  <text
+    x="1090"
+    y="65"
+    font-family="monospace"
+    font-size="22"
+    fill="#C084FC"
+    opacity="0.65"
+  >
+    { }
+  </text>
+
+
+  <!-- TERMINAL BAR -->
+  <rect
+    x="735"
+    y="42"
+    width="385"
+    height="38"
+    rx="19"
+    fill="#0D0A12"
+    stroke="#A855F7"
+    stroke-opacity="0.25"
+  />
+
+  <circle cx="757" cy="61" r="5" fill="#D946EF"/>
+  <circle cx="775" cy="61" r="5" fill="#A855F7"/>
+  <circle cx="793" cy="61" r="5" fill="#C084FC"/>
+
+  <text
+    x="815"
+    y="66"
+    font-family="monospace"
+    font-size="13"
+    fill="#9CA3AF"
+  >
+    ~/sayanti/portfolio
+  </text>
+
+
+  <!-- MAIN NAME -->
+  <text
+    x="145"
+    y="155"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="46"
+    font-weight="700"
+    letter-spacing="1"
+    fill="#FFFFFF"
+  >
+    SAYANTI KUNDU
+  </text>
+
+
+  <!-- ACCENT LINE -->
+  <rect
+    x="148"
+    y="175"
+    width="82"
+    height="3"
+    rx="2"
+    fill="#D946EF"
+    filter="url(#glow)"
+  />
+
+
+  <!-- ROLE -->
+  <text
+    x="145"
+    y="215"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="22"
+    fill="#E5E7EB"
+  >
+    Full Stack Developer
+  </text>
+
+
+  <!-- TAGLINE -->
+  <text
+    x="145"
+    y="250"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    fill="#9CA3AF"
+  >
+    Turning ideas into interfaces, APIs and working products.
+  </text>
+
+
+  <!-- TERMINAL COMMAND -->
+  <text
+    x="145"
+    y="285"
+    font-family="monospace"
+    font-size="14"
+    fill="#D946EF"
+  >
+    &gt; building something meaningful_
+  </text>
+
+
+  <!-- RIGHT CODE CIRCLE -->
+  <circle
+    cx="1010"
+    cy="205"
+    r="92"
+    fill="#0B0910"
+    stroke="#A855F7"
+    stroke-opacity="0.28"
+    stroke-width="1"
+  />
+
+  <circle
+    cx="1010"
+    cy="205"
+    r="76"
+    fill="none"
+    stroke="#D946EF"
+    stroke-opacity="0.15"
+    stroke-width="1"
+  />
+
+
+  <!-- CODE SYMBOL -->
+  <text
+    x="972"
+    y="198"
+    font-family="monospace"
+    font-size="34"
+    fill="#D946EF"
+    opacity="0.85"
+  >
+    &lt;/&gt;
+  </text>
+
+  <text
+    x="973"
+    y="228"
+    font-family="monospace"
+    font-size="13"
+    fill="#9CA3AF"
+  >
+    code • create
+  </text>
+
+
+  <!-- BOTTOM LEFT NUMBERS -->
+  <text
+    x="75"
+    y="320"
+    font-family="monospace"
+    font-size="16"
+    fill="#A855F7"
+    opacity="0.5"
+  >
+    { 01 01 10 01 }
+  </text>
+
+
+  <!-- BOTTOM RIGHT CODE -->
+  <text
+    x="1040"
+    y="315"
+    font-family="monospace"
+    font-size="15"
+    fill="#D946EF"
+    opacity="0.5"
+  >
+    &lt;code /&gt;
+  </text>
+
+
+  <!-- SMALL DECORATIVE DOTS -->
+  <circle cx="650" cy="115" r="2" fill="#D946EF" opacity="0.6"/>
+  <circle cx="680" cy="145" r="1.5" fill="#C084FC" opacity="0.5"/>
+  <circle cx="620" cy="175" r="1.5" fill="#D946EF" opacity="0.4"/>
+  <circle cx="700" cy="285" r="2" fill="#A855F7" opacity="0.5"/>
+
+
+  <!-- OUTER BORDER -->
+  <rect
+    x="1"
+    y="1"
+    width="1198"
+    height="358"
+    rx="23"
+    fill="none"
+    stroke="#C084FC"
+    stroke-opacity="0.18"
+  />
+
+</svg>
